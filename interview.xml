@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE interviews SYSTEM "interview.dtd">
+
+<interviews>
+        <interview rID="r0001" pID="p0001" sID="s0001">
+                <date>2002-2-1</date>
+                <time>9:00</time>
+                <location>UofT</location>
+                <assessment>
+                        <answers>
+                                <answer qID="q0001">43</answer>
+                                <answer qID="q0002">100</answer>
+                                <answer qID="q0003">0</answer>
+                        </answers>
+                        <techProficiency>23</techProficiency>
+                        <communication>40</communication>
+                        <enthusiasm>44</enthusiasm>
+                        <collegiality>0</collegiality>
+                </assessment>
+        </interview>
+
+        <interview rID="r0002" pID="p0001" sID="s0002">
+                <date>2002-2-2</date>
+                <time>10:00</time>
+                <location>UofT2</location>
+                <assessment>
+                        <answers>
+                                <answer qID="q0001">45</answer>
+                                <answer qID="q0002">99</answer>
+                                <answer qID="q0004">1</answer>
+                        </answers>
+                        <techProficiency>45</techProficiency>
+                        <communication>55</communication>
+                        <enthusiasm>46</enthusiasm>
+                        <collegiality>14</collegiality>
+                </assessment>
+        </interview>
+
+        <interview rID="r0003" pID="p0002" sID="s0003">
+                <date>2002-2-3</date>
+                <time>10:00</time>
+                <location>UofT3</location>
+                <assessment>
+                        <answers>
+                                <answer qID="q0001">45</answer>
+                                <answer qID="q0002">99</answer>
+                                <answer qID="q0004">1</answer>
+                        </answers>
+                        <techProficiency>45</techProficiency>
+                        <communication>55</communication>
+                        <enthusiasm>46</enthusiasm>
+                        <collegiality>14</collegiality>
+                </assessment>
+        </interview>
+
+        <interview rID="r0004" pID="p0001" sID="s0005">
+                <date>2002-2-3</date>
+                <time>10:00</time>
+                <location>UofT4</location>
+                <assessment>
+                        <answers>
+                                <answer qID="q0001">44</answer>
+                                <answer qID="q0002">99</answer>
+                                <answer qID="q0004">1</answer>
+                        </answers>
+                        <techProficiency>45</techProficiency>
+                        <communication>51</communication>
+                        <enthusiasm>46</enthusiasm>
+                        <collegiality>14</collegiality>
+                </assessment>
+        </interview>
+
+                <interview rID="r0004" pID="p0001" sID="s0001">
+                <date>2003-2-3</date>
+                <time>10:00</time>
+                <location>UofT4</location>
+                <assessment>
+                        <answers>
+                                <answer qID="q0001">100</answer>
+                                <answer qID="q0002">99</answer>
+                                <answer qID="q0004">99</answer>
+                        </answers>
+                        <techProficiency>99</techProficiency>
+                        <communication>99</communication>
+                        <enthusiasm>99</enthusiasm>
+                        <collegiality>99</collegiality>
+                </assessment>
+        </interview>
+
+        <interviewer sID="s0001">
+                <forename>Izzy</forename>
+                <surname>Zhao</surname>
+                <honorific>Programmer</honorific>
+                <title>ADC</title>
+                <title>Support</title>
+        </interviewer>
+
+        <interviewer sID="s0002">
+                <forename>Luffy</forename>
+                <surname>Monkey</surname>
+                <honorific>Captain</honorific>
+                <title>CEO of Sunny Co. Limited</title>
+        </interviewer>
+
+        <interviewer sID="s0003">
+                <forename>Bruce</forename>
+                <surname>Wayne</surname>
+                <honorific>Mr.</honorific>
+                <title>Batman</title>
+                <title>Millionaire</title>
+        </interviewer>
+
+        <interviewer sID="s0004">
+                <forename>Wall</forename>
+                <surname>E</surname>
+                <honorific>Robot</honorific>
+                <title>Street sweeper</title>
+        </interviewer>
+
+        <interviewer sID="s0005">
+                <forename>Anonymous</forename>
+                <surname>A</surname>
+                <honorific>Mr.</honorific>
+        </interviewer>
+</interviews>
