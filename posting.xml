@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE postings SYSTEM "posting.dtd">
+<postings>
+    <posting pID="P1">
+        <position>Boss</position>
+        <reqSkill what="Python" level="3" importance="5" ></reqSkill>
+        <questions>
+            <question qID="Q1">What's yo name?</question>
+        </questions>
+    </posting>
+    <posting pID="P2">
+        <position>Another Boss</position>
+        <reqSkill what="Python" level="3" importance="5" ></reqSkill>
+        <reqSkill what="SQL" level="5" importance="5" ></reqSkill>
+        <reqSkill what="XQuery" level="3" importance="4" ></reqSkill>
+        <questions>
+            <question qID="Q2">What's yo fav movie?</question>
+            <question qID="Q3">Yo good?</question>
+            <question qID="Q4">Yo gooooooooooood?</question>
+        </questions>
+    </posting>
+    <posting pID="P3">
+        <position>Final Boss</position>
+        <reqSkill what="Shell" level="1" importance="1" ></reqSkill>
+        <reqSkill what="Prolog" level="2" importance="2" ></reqSkill>
+        <reqSkill what="LaTeX" level="5" importance="5" ></reqSkill>
+        <questions>
+        </questions>
+        <questions>
+        </questions>
+    </posting>
+</postings>
