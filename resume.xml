@@ -41,7 +41,7 @@
             </position>
         </experience>
         <skills>
-            <skill what="Python" level="5"></skill>
+            <skill what="Python" level="4"></skill>
         </skills>
     </resume>
 
@@ -102,9 +102,9 @@
         </experience>
         <skills>
             <skill what="C" level="3"></skill>
-            <skill what="Java" level="5"></skill>
+            <skill what="Java" level="4"></skill>
             <skill what="SQL" level="4"></skill>
-            <skill what="LaTeX" level="5"></skill>
+            <skill what="LaTeX" level="4"></skill>
             <skill what="Prolog" level="1"></skill>
         </skills>
     </resume>
@@ -204,9 +204,9 @@
             </position>
         </experience>
         <skills>
-            <skill what="C" level="5"></skill>
-            <skill what="Java" level="5"></skill>
-            <skill what="Python" level="5"></skill>
+            <skill what="C" level="4"></skill>
+            <skill what="Java" level="4"></skill>
+            <skill what="Python" level="4"></skill>
         </skills>
     </resume>
 
