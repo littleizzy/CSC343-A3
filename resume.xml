@@ -1,0 +1,214 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE resumes SYSTEM "resume.dtd">
+<resumes>
+    <resume rID="R1">
+        <summary>Good yo</summary>
+        <identification>
+            <name>
+                <forename>Izzy</forename>
+                <surname>Zhao</surname>
+                <honorific>What's this?</honorific>
+                <title>Dr.</title>
+            </name>
+            <sex>Female</sex>
+            <DOB>1994/11/04</DOB>
+            <citizenship>Canadian</citizenship>
+            <address>221B Baker Street</address>
+            <telephone>416-888-8888</telephone>
+            <email>izzy@hotmail.com</email>
+        </identification>
+        <education>
+            <degree level="doctoral">
+                <degreeName>Awesome</degreeName>
+                <institution>University of Toronto</institution>
+                <major>Computer Science</major>
+                <minor>Modern Chinese Literature</minor>
+                <honours></honours>
+                <period>
+                    <startDate>2002/10/10</startDate>
+                    <endDate>2006/12/10</endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Microsoft">
+                <title>Software Developer</title>
+                <description>Java Developer</description>
+                <period>
+                    <startDate>2008/01/01</startDate>
+                    <endDate>N/A</endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="C" level="5"></skill>
+        </skills>
+    </resume>
+
+    <resume rID="R2">
+        <summary>Awesome</summary>
+        <identification>
+            <name>
+                <forename>Jack</forename>
+                <surname>Wong</surname>
+                <honorific>What's this?</honorific>
+                <title>Mr.</title>
+            </name>
+            <sex>Male</sex>
+            <DOB>1994/01/01</DOB>
+            <citizenship>Canadian</citizenship>
+            <address>111 St. Geroge Street</address>
+            <telephone>416-999-9999</telephone>
+            <email>jack@hotmail.com</email>
+        </identification>
+        <education>
+            <degree level="undergraduate">
+                <degreeName>Awesome</degreeName>
+                <institution>University of Toronto</institution>
+                <major>Civil Engineering</major>
+                <honours></honours>
+                <period>
+                    <startDate>2001/10/10</startDate>
+                    <endDate>2005/12/10</endDate>
+                </period>
+            </degree>
+            <degree level="masters">
+                <degreeName>Awesome</degreeName>
+                <institution>Harvard University</institution>
+                <major>Civil Engineering</major>
+                <period>
+                    <startDate>2006/01/01</startDate>
+                    <endDate>2008/01/01</endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Apple">
+                <title>Hardware Developer</title>
+                <description>Hardware Developer</description>
+                <period>
+                    <startDate>2010/01/01</startDate>
+                    <endDate>2011/12/12</endDate>
+                </period>
+            </position>
+            <position where="Pinterest">
+                <title>Data Manager</title>
+                <description>Data Management</description>
+                <period>
+                    <startDate>2012/01/01</startDate>
+                    <endDate>N/A</endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="C" level="3"></skill>
+            <skill what="Java" level="5"></skill>
+            <skill what="SQL" level="4"></skill>
+            <skill what="LaTeX" level="5"></skill>
+            <skill what="Prolog" level="1"></skill>
+        </skills>
+    </resume>
+
+    <resume rID="R3">
+        <summary>Bad</summary>
+        <identification>
+            <name>
+                <forename>Betty</forename>
+                <surname>Liu</surname>
+                <honorific>What's this?</honorific>
+                <title>Ms.</title>
+            </name>
+            <sex>Female</sex>
+            <DOB>1994/06/24</DOB>
+            <citizenship>Chinese</citizenship>
+            <address>888 King Street</address>
+            <telephone>416-000-0000</telephone>
+            <email>betty@hotmail.com</email>
+        </identification>
+        <education>
+            <degree level="undergraduate">
+                <degreeName>Okay</degreeName>
+                <institution>York University</institution>
+                <major>Commerce</major>
+                <period>
+                    <startDate>2001/10/10</startDate>
+                    <endDate>2006/12/10</endDate>
+                </period>
+            </degree>
+            <degree level="certificate">
+                <degreeName>Okay</degreeName>
+                <institution>York University</institution>
+                <major>Psychology</major>
+                <minor>Astronomy</minor>
+                <period>
+                    <startDate>2007/01/01</startDate>
+                    <endDate>2009/01/01</endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Jule">
+                <title>Waitress</title>
+                <description>Waitress</description>
+                <period>
+                    <startDate>2008/01/01</startDate>
+                    <endDate>N/A</endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="XQuery" level="1"></skill>
+            <skill what="Haskell" level="2"></skill>
+            <skill what="Lisp" level="1"></skill>
+            <skill what="Scheme" level="2"></skill>
+            <skill what="MATLAB" level="1"></skill>
+        </skills>
+    </resume>
+    <resume rID="R4">
+        <summary>Good yo</summary>
+        <identification>
+            <name>
+                <forename>Ivy</forename>
+                <surname>Fang</surname>
+                <honorific>What's this?</honorific>
+                <title>Dr.</title>
+            </name>
+            <sex>Female</sex>
+            <DOB>1994/11/04</DOB>
+            <citizenship>Canadian</citizenship>
+            <address>221B Baker Street</address>
+            <telephone>416-888-8888</telephone>
+            <email>izzy@hotmail.com</email>
+        </identification>
+        <education>
+            <degree level="doctoral">
+                <degreeName>Awesome</degreeName>
+                <institution>University of Toronto</institution>
+                <major>Computer Science</major>
+                <minor>Modern Chinese Literature</minor>
+                <honours></honours>
+                <period>
+                    <startDate>2002/10/10</startDate>
+                    <endDate>2006/12/10</endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Microsoft">
+                <title>Software Developer</title>
+                <description>Java Developer</description>
+                <period>
+                    <startDate>2008/01/01</startDate>
+                    <endDate>N/A</endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="C" level="5"></skill>
+            <skill what="Java" level="5"></skill>
+            <skill what="Python" level="5"></skill>
+        </skills>
+    </resume>
+
+
+</resumes>
