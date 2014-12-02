@@ -2,8 +2,9 @@ let $res := fn:doc("resume.xml")
 for $r1 in $res//resume
 for $r2 in $res//resume
 return
-    <result>{$r1//skill = $r2//skill}</result>
-    
+    if ($r1//skill = $r2//skill)
+    then $r1//@rID
+    else ()
     
     
     (:
