@@ -2,7 +2,7 @@ let $res := fn:doc("resume.xml")
 for $r1 in $res//resume
 for $r2 in $res//resume
 return
-    if ($r1//skill = $r2//skill and $r1//@rID neq $r2//@rID)
+    if ($r1//skill = $r2//skill) and ($r1//@rID neq $r2//@rID)
     then $r1//@rID
     else ()
     
