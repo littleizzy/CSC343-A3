@@ -1,13 +1,15 @@
+<result>
+{
 let $res := fn:doc("resume.xml")
-for $r1 in $res//resume
-for $r2 in $res//resume
+for $r1 in $res//resume, $r2 in $res//resume
+where ($r1 << $r2)
 return
-    if (($r1//skill = $r2//skill) and ($r1//@rID ne $r2//@rID))
-    then $r1//@rID
+    if (count($r1//skill) = count($r2//skill) and 
+		every $skill in $r1//skill satisfies (
+			$skill/@what = $r2//skill/@what and $skill/@level = $r2//skill[@what = $skill/@what]/@level
+			)
+		)
+    then (data($r1//@rID), data($r2//@rID))
     else ()
-    
-    
-    (:
-     if $r1[@what = $r2//@what]
-    then <result> { $r1//@rID } </result>
-    else () :)
+}
+</result>
