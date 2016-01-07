@@ -1,4 +1,2 @@
-
-Assignment 3
-CSC343 Introduction to Database
+CSC343 Introduction to Database - Assignment 3
 ===
