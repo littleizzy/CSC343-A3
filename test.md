@@ -1,0 +1,2 @@
+- Test Driven Development 
+Since our team would implement the backend using node.js, we chose Mocha, a JavaScript testing framework to automate the testing of the RESTful API. Along with Chai, a TDD assertion library for node, and Chai-Http, a HTTP integration testing. (I'm assuming)None of us have experience with this framework but it should be very easy to learn. So, before we implement the API, we would create necessary unit tests using Mocha, Chai and Chai-Http and that each time we improve a functionality, it can be tested easily. 
