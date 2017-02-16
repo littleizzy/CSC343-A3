@@ -4,6 +4,7 @@ Since our team would implement the backend using node.js, we chose Mocha, a Java
 
 
 <b>Continuous Integration</b>
+
 We will be using Travis for continuous integration as it is the most convinient way. Plus it works well with github. The plan is, we set up our repository with travis, do the setting and create the instruction file. And then whenever we push to the repo, travis will try to build and test it. 
 
 
